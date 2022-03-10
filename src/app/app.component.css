@@ -1,0 +1,16 @@
+.principal{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row; 
+    color: ;
+}
+
+h1{
+    margin: 0px;
+}
+
+mat-slide-toggle{
+    margin: 0px;
+}

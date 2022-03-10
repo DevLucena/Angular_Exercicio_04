@@ -1,0 +1,52 @@
+
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+    /*font-weight:800*/
+}
+
+.app-card1{
+    width: 220px;
+    height: 320px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column; 
+}
+
+.titulo{
+    font-size: 15px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column; 
+}
+
+.preco{
+    font-size: 45px;
+}
+
+span{
+    font-size: 25px;
+}
+
+.lista{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column; 
+}
+
+.item{
+    font-size: 15px;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    border: 3px solid #aaabc0;
+}
+
+
+
+
+

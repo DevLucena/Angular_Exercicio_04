@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ex_04_cards';
+  title = 'aul-_08-03-t';
+
+  alertar() {
+    alert("Você Clicou no botão")
+  }
+
+  salvar(evento:any):void {
+    alert(`Pacote Comprado`)
+    console.log(evento)
+    }
 }
